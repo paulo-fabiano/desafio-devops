@@ -1,0 +1,7 @@
+postgres_password="8!aA22nmY1"
+user="app_desafio_cubos"
+db_pass="33252aAer"
+host="database"
+database="desafio_cubos"
+db_port="5432"
+app_db_password="33252aAer"
