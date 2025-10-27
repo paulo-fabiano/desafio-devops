@@ -101,13 +101,13 @@ Podem existir pequenas variações nos campos **CREATED**, **STATUS** e **CONTAI
 
 A aplicação Frontend estará acessível através do Nginx na porta 80.
 
-![](./.github/images/image.png)
+![Página Inicial](./.github/images/image.png)
 
 ## Passo 6. Testar a aplicação
 
 Clicando no botão **Verificar Backend e Banco** podemos ver que está tudo normal.
 
-![alt text](./.github/images/image2.png)
+![Aplicação OK](./.github/images/image2.png)
 
 # Limpeza do Ambiente
 
