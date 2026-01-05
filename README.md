@@ -1,4 +1,4 @@
-# Desafio Técnico - Cubos DevOps
+# Desafio DevOps
 
 Este projeto tem como objetivo criar um ambiente seguro e replicável para uma aplicação web que se comunica com um backend, o qual, por sua vez, interage com um banco de dados PostgreSQL. A infraestrutura é definida como código utilizando Terraform e os serviços são orquestrados em contêineres Docker, aplicando conceitos de Proxy Reverso, Redes Internas e Externas, Volumes e Variáveis de Ambiente.
 
